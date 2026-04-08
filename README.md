@@ -7,8 +7,8 @@ macOS only. One dependency ([swift-argument-parser](https://github.com/apple/swi
 ## Install
 
 ```bash
-git clone https://github.com/afar1/fieldtheory-cli
-cd fieldtheory-cli/swift-field-theory-cli
+git clone https://github.com/juliensagot/swift-fieldtheory-cli
+cd swift-fieldtheory-cli
 swift build -c release
 # Optionally copy to PATH:
 cp .build/release/ft /usr/local/bin/ft
